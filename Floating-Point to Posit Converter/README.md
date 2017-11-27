@@ -9,9 +9,7 @@ Here, we can find the Floating-Point to Posit converter module. It includes foll
 Below are the files for test-module with N=32, E=8 and es=4 (User can test for other options).
 
 5. FP_to_Posit_tb.v             : Test-bench module. (Input range is selected to avoid julia exceptional interupt)
-
 6. FP_to_Posit.sh               : A bash script to invoke and run modelsim simulator to run the test-bench.
-
 *. FP_to_posit_out.txt          : It will be generated after simlulation which contains FP input and corresponding Posit output.
 
 
