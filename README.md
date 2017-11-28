@@ -1,7 +1,13 @@
 # Posit-HDL-Arithmetic
 "Universal number (Unum) Posit HDL Arithmetic Architecture Generator"
 
-A parameterized Verilog HDL for Unum Posit number system arithmetic is
+Universal number system is proposed by Prof. Gustafson, which gone through 
+a set of advancement as type-1, type-2 and type-3 unum. Posit is proposed 
+under type-3 unum system. 
+
+More details on Unum can be sought from http://www.johngustafson.net/unums.html
+
+Here, a parameterized Verilog HDL for Unum Posit number system arithmetic is
 under progress. At present, it includes the basic arithmetic of Floating-Point 
 to Posit conversion, Posit to Floating-Point conversion, Posit addition/subtraction, 
 Posit Multiplication. Addition module can also be used for subtraction, just by
