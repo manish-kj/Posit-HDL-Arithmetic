@@ -1,3 +1,5 @@
+# Posit Multiplier HDL Arithmetic:
+
 Here, we can find the Posit Multiplier module. It includes following files.
 
 1. posit_mult.v         :       Top-module which takes N (posit word size) and es (posit exponent size).
