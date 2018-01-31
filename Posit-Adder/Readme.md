@@ -1,4 +1,4 @@
-Posit Adder HDL Arithmetic:
+# Posit Adder HDL Arithmetic:
 
 Here, we can find the Posit Adder module. It includes following files.
 
