@@ -1,6 +1,14 @@
 # Posit-HDL-Arithmetic
 "Universal number (Unum) Posit HDL Arithmetic Architecture Generator"
 
+******************IMPORTANT NOTE*****************
+(An improved version of Posit Adder and Multiplier HDL Generator is provided 
+at https://github.com/manish-kj/PACoGen . It also supports rounding to nearest method 
+alogn with some other hardware optimizations. It also inlcudes a posit division generator 
+using Newton-Raphson method. It also provide a set of pipelined architecture HDL code 
+for posit adder, multiplier and division.)
+********************************************
+
 Universal number system is proposed by Prof. Gustafson, which gone through 
 a set of advancement as type-1, type-2 and type-3 unum. Posit is proposed 
 under type-3 unum system. 
