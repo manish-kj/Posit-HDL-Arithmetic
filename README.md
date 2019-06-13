@@ -33,3 +33,8 @@ generation.
 
 Posit standards are followed from the developer's paper which can be find at
 http://www.johngustafson.net/pdfs/BeatingFloatingPoint.pdf
+
+
+This work is based on following papers. Please refer/cite them if you find this work useful for your research.
+1. Manish Kumar Jaiswal and Hayden K.-H. So, "Architecture Generator for Type-3 Unum Posit Adder/Subtractor", IEEE International Symposium on Circuits and Systems (ISCAS 2018), pp. 1-5, Florence, Italy, May 2018.
+2. Manish Kumar Jaiswal and Hayden K.-H. So, "Universal Number Posit Arithmetic Generator on FPGA", Design Automation and Test (DATE 2018), pp. 1159-1162, Dresden, Germany, Mar 2018.
