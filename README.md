@@ -1,7 +1,8 @@
 # Posit-HDL-Arithmetic
 "Universal number (Unum) Posit HDL Arithmetic Architecture Generator"
 
-******************IMPORTANT NOTE*****************
+********************************************
+**IMPORTANT NOTE
 (An improved version of Posit Adder and Multiplier HDL Generator is provided 
 at https://github.com/manish-kj/PACoGen . It also supports rounding to nearest method 
 alogn with some other hardware optimizations. It also inlcudes a posit division generator 
