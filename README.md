@@ -7,7 +7,7 @@
 at https://github.com/manish-kj/PACoGen . It also supports rounding to nearest method 
 alogn with some other hardware optimizations. It also inlcudes a posit division generator 
 using Newton-Raphson method. It also provide a set of pipelined architecture HDL code 
-for posit adder, multiplier and division.)
+for posit adder, multiplier and division.)**
 ********************************************
 
 Universal number system is proposed by Prof. Gustafson, which gone through 
