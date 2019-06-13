@@ -1,8 +1,8 @@
 ********************************************
 **IMPORTANT NOTE:
-An improved version of Posit Adder and Multiplier HDL Generator is provided 
-at https://github.com/manish-kj/PACoGen . It also supports rounding to nearest method 
-alogn with some other hardware optimizations. It also inlcudes a posit division generator 
+An improved version of "Posit Adder and Multiplier" HDL Generator is provided 
+at https://github.com/manish-kj/PACoGen . It also supports "rounding to nearest" method 
+along with some other hardware optimizations. It also inlcudes a "posit division generator" 
 using Newton-Raphson method. It also provide a set of pipelined architecture HDL code 
 for posit adder, multiplier and division.**
 ********************************************
